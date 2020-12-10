@@ -36,4 +36,4 @@
 
 
 
-<img src="" alt="" width="365" height="619">
+<img src="https://github.com/wu555932/Snake/blob/master/img/snake.png" alt="" width="365" height="619">
